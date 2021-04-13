@@ -1,1 +1,0 @@
-# earthquakes_dashboard
