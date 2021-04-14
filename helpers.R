@@ -1,4 +1,4 @@
-dt <- read.csv("~/Desktop/shiny_app/dt.csv")
+dt <- read.csv("dt.csv")
 
 
 ##  function p_load of 'pacman' to check if a package is installed, 
