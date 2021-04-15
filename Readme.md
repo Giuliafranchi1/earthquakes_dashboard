@@ -33,7 +33,7 @@ In the upper part of the dashboard there is the NavBar Menu where the user can s
 
 This first section provides three main plots: 
 
-- `Number of Earthquakes since 1965` : the plot describes the number of earthquakes from 1965 to 2016. As the user can interact with the slider input he/she can notice as in the year 2011 there were 712 earthquakes, the highest valued in the period considered.
+- `Number of Earthquakes since 1965` : the plot describes the number of earthquakes from 1965 to 2016. As the user can interact with the slider input he/she can notice as in the year 2011 there were 712 earthquakes, the highest value in the period considered.
 
 - `Density function of Magnitude`: the plot is about probability density function of Magnitude, estimated on kernel density. Thanks to the checkbox the user can interact with it according the different causes of seismic waves, given by the variable Type. 
 
