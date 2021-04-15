@@ -26,7 +26,7 @@ ui <-fluidPage(theme=shinytheme("paper"),
                                        sidebarPanel(
                                        h3("Number of significant Earthquakes"),
                                        p("This table provides the first plot that shows the number of significant earthquakes (Magnitude >5.5) from 1965 to 2016.
-                                    As you interact with the slider input you can notice as in the year 2011 there were 712 earthquakes, the highest valued in the period considered.",
+                                    As you interact with the slider input you can notice as in the year 2011 there were 712 earthquakes, the highest value in the period considered.",
                                          style = "font-family: 'Arial'; font-si16pt"),
                                        
                                        #Input:slider for range of Years
